@@ -1,0 +1,40 @@
+.reviews {
+    height: 403px;
+    margin-top: 180px;
+}
+.reviews h1 {
+    height: 59px;
+    font-family: 'Commissioner', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #000000;
+}
+.reviewsContent {
+    display: flex;
+    gap: 25px;
+}
+.revCart {
+    margin-top: 60px;
+    padding: 30px;
+    width: 387px;
+    height: 284px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+.revCart p {
+    width: 327px;
+    height: 96px;
+    margin-top: 20px;
+
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+.imgText{
+    display: flex;
+}

@@ -1,0 +1,37 @@
+
+.menuText {
+    display: flex;
+    justify-content: space-between;
+}
+.menuText ul {
+    display: flex;
+    margin-top: 40px;
+    gap: 60px;
+    list-style-type: none;
+}
+.callMenu p,
+.menuText ul  {
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 20px;
+
+}
+.link a{
+    font-size: 20px;
+    margin-top: 40px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.5s;
+}
+.link a:hover {
+    color: #018FA3;
+    text-decoration: #018FA3;
+}
+
+.callMenu {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Commissioner, sans-serif;
+  box-sizing: border-box;
+}
+.container {
+  width: 1220px;
+  margin: 0 auto;
+}
+.wrapper{
+  height: 100vh;
+  background: url("../public/img/backgroundImage.png") no-repeat center /cover ;
+}
+html {
+  scroll-behavior: smooth;
+}

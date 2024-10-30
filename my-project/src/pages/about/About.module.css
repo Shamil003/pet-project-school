@@ -1,0 +1,54 @@
+.about {
+    height: 100vh;
+
+}
+.aboutTop {
+    display: flex;
+    margin-bottom: 100px;
+}
+.aboutContent {
+    margin-right: 130px;
+}
+
+.aboutContent img{
+    position: absolute;
+    width: 547px;
+    height: 256px;
+    z-index: -1;
+    margin-top: -70px;
+}
+.aboutContent p {
+    position: relative;
+    width: 440px;
+    height: 203px;
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: 24px;
+}
+.aboutLeft img{
+    width: 520px;
+    height: 375px;
+    margin-right: 150px;
+}
+.aboutBottom {
+    display: flex;
+}
+.aboutContent2 {
+    margin-right: 130px;
+}
+.aboutContent2 img {
+    position: absolute;
+    width: 547px;
+    height: 256px;
+    z-index: -1;
+    margin-top: 130px;
+}
+.aboutContent2 p {
+    margin-top: 120px;
+    position: relative;
+    width: 440px;
+    height: 203px;
+    margin-left: -50px;
+    font-weight: 400;
+    font-size: 24px;
+}

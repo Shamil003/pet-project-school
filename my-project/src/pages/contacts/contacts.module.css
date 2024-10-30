@@ -1,0 +1,45 @@
+.contacts{
+    margin-top: 200px;
+    display: flex;
+    gap: 100px;
+}
+.contactContent {
+    padding: 15px 50px;
+    width: 550px;
+    height: 540px;
+    background: #018FA3;
+    box-shadow: 0 50px 50px -27px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+.contactContent h1 {
+    height: 59px;
+    text-align: center;
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+.contactContent h3 {
+    margin-top: 23px;
+    margin-bottom: 10px;
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+.contactContent p {
+    font-family: 'Commissioner', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.carta {
+    margin-top: 50px;
+    text-align: center;
+}

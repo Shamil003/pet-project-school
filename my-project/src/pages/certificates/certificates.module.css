@@ -1,0 +1,18 @@
+.certificates {
+    margin-top: 180px;
+    height: 450px;
+}
+.certificates h1 {
+    height: 59px;
+    left: 497px;
+    top: 2829px;
+    text-align: center;
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+.certificates img{
+    width: 100%;
+}
